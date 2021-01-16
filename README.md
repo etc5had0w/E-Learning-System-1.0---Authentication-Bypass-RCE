@@ -1,4 +1,4 @@
-# E-Learning System-1.0 Authentication-Bypass RCE
+# E-Learning System-1.0 Authentication-Bypass & RCE
 
 This exploit is available on exploitDB but there were minor mistakes that are already fixed in this github version of exploit.
 
