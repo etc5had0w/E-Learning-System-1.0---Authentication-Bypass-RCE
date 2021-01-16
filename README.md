@@ -1,6 +1,8 @@
 # E-Learning System-1.0 Authentication-Bypass & RCE
 
-This exploit is available on exploitDB but there were minor mistakes that are already fixed in this github version of exploit.
+This exploit is available on exploitDB but there were minor mistakes in the exploit that needed some python knowledge to fix and run the exploit.
+
+However I Qucikly Fixed Those Issues and uploaded the updated and 100% Working version of the exploit.
 
 Link to ExploitDB : https://www.exploit-db.com/exploits/49434
 
